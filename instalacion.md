@@ -1,4 +1,5 @@
-#Intalación de portainer
+#Instalación de portainer  
+
 Su instalacion es muy sencilla. Creamos el contenedor en segundo plano con el nombre de poratiner, le añadimos el puerto en este caso será 8082:9000 a continuación creamos un volumen al que llamaremos 
 "portainer_data:/data"  
 
