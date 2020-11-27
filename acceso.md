@@ -4,4 +4,4 @@ Nos dirigimos a nuestro navegador accedemos a la web mediante **localhost:8082**
 Una vez dentro nos dara la opción de registrarnos, añadimos nuestro usuario y contraseña y accedemos.  
 
 ![Registro](/docker-portainer/imagenes/Captura de pantalla de 2020-11-27 14-22-33.png)
-![Registro](/docker-portainer/imagenes/usuarioportainer.png)
+![Registro](/docker-portainer/imagenes/Captura de pantalla de 2020-11-27 14-22-33.png)
