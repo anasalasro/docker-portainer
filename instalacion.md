@@ -12,5 +12,5 @@ latest: Pulling from portainer/portainer
 d1e017099d17: Pull complete 
 717377b83d5c: Pull complete 
 
-Una vez realizado este paso nos dirijimos al navegador y accedemos a traves de localhost:8082 y nos registraremos a través de la página web.
+Una vez realizado este paso nos dirijimos al navegador y accedemos a traves de **localhost:8082** o bien desde la ip en este caso **192.168.2.196:8082** y nos registraremos a través de la página web.
 
