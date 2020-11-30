@@ -1,8 +1,7 @@
 # Panel de Control  
 ## Entramos 
 ![Registro](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/usuarioportainer.png)
-Una vez en el panel de control seleccionamos local    
-**Nos conectamos**  
+Una vez en el panel de control seleccionamos local y nos conectamos  
 - Comprobamos que hemos añadido el volumen correctamente
 ![Local](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/portainerLocal.png)  
 - Entramos a la pagina principal de local
