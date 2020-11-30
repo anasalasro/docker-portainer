@@ -10,5 +10,4 @@ Una vez en el panel de control seleccionamos local
 ![Plantilla](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/a%C3%B1adirplantilla.png)
 ![Contenedor](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/implementarcontenedor.png)
 ![Contenedores](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/contenedores.png)  
-##Accedemos a la web
-![Web](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/accedemosweb.png)  
+
